@@ -1,0 +1,23 @@
+body{
+    background: url(https://fondosmil.com/fondo/17010.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+img{
+    border: 2px dashed purple;
+}
+
+h2{
+    color: white;
+    font-size: 100px;   
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p{
+    color: springgreen;
+    text-align: justify;
+    background: linear-gradient(black, transparent);
+}
